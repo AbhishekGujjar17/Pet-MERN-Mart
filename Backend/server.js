@@ -30,7 +30,7 @@ app.use("/api/v1/product", productRouter);
 //api endpoint
 app.get("/", (req, res) => {
   res.send({
-    message: "Ecommerce Project"
+    message: "Pet MERN-Mart Project"
   });
 
 });
