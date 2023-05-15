@@ -29,10 +29,7 @@ app.use("/api/v1/product", productRouter);
 
 //api endpoint
 app.get("/", (req, res) => {
-  res.send({
-    message: "Pet MERN-Mart Project"
-  });
-
+  res.json("Pet MERN-Mart Project");
 });
 
 //PORT Number
