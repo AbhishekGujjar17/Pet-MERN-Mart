@@ -2,6 +2,7 @@ import React from "react";
 import { useSearch } from "../../context/SearchContext";
 import axios from "axios";
 import { useNavigate } from "react-router-dom";
+import { toast } from "react-toastify";
 const SearchInput = () => {
   const [values, setValues] = useSearch();
   const navigate = useNavigate();
