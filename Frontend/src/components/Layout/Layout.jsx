@@ -24,7 +24,7 @@ Layout.defaultProps = {
   description: "Ecommerce Project Built using MERN Stack",
   keywords: "react,node,javascript,express,mongodb,bootstrap,stripe,ecommerce",
   author: "Abhishek Gujjar",
-  title: "Pet MERN-Mart",
+  title: "Pets MERN-Mart",
 };
 
 export default Layout;
