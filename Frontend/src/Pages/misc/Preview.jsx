@@ -7,13 +7,8 @@ const Preview = () => {
     <Layout title={"Preview"}>
       <div className="container text-center mt-5">
         <h1 className="mt-5">Project Preview</h1>
-        <p className="lead mt-5">
-          Welcome to our project preview! Watch the video below to get a glimpse
-          of what our project is all about.
-        </p>
-
         <div className="d-flex justify-content-center">
-          <video width="640" height="360" controls>
+          <video width="840" height="460" controls>
             <source src={myVideo} type="video/mp4" />
             Your browser does not support the video tag.
           </video>
