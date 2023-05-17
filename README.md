@@ -1,7 +1,7 @@
 # Pet-MERN-Mart
 Introducing Pet MERN-Mart: The one-stop destination for seamless online shopping for your pets.
 
-Pet-MERN-Mart is a MERN stack e-commerce site for pet shopping. It offers toys, grooming and accessories, and food and treats. Features include JWT authentication, payment methods, category and price filters, and an admin panel for easy management. Shop for all your pet needs securely and conveniently at Pet-MERN-Mart.
+Pet-MERN-Mart is a MERN stack e-commerce site for pet shopping. It offers toys, grooming and accessories, and food and treats products for your pets. Features include JWT authentication, payment methods, category and price filters, and an admin panel for easy management. Shop for all your pet needs securely and conveniently at Pet-MERN-Mart.
 
 # Installation
 Clone the repositoriy using git clone
